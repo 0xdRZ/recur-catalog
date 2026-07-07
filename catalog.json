@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 1,
+ "version": 2,
  "providers": [
   {
    "key": "1password",
@@ -10,7 +10,8 @@
   {
    "key": "adobexd",
    "name": "Adobe XD",
-   "logo": "logos/adobexd.png"
+   "logo": "logos/adobexd.png",
+   "cancel": "https://account.adobe.com/plans"
   },
   {
    "key": "aha",
@@ -42,7 +43,8 @@
   {
    "key": "prime",
    "name": "Amazon Prime",
-   "logo": "logos/prime.png"
+   "logo": "logos/prime.png",
+   "cancel": "https://www.amazon.com/gp/primecentral"
   },
   {
    "key": "amex",
@@ -57,7 +59,8 @@
   {
    "key": "applearcade",
    "name": "Apple Arcade",
-   "logo": "logos/applearcade.png"
+   "logo": "logos/applearcade.png",
+   "cancel": "https://apps.apple.com/account/subscriptions"
   },
   {
    "key": "appledeveloper",
@@ -67,19 +70,22 @@
   {
    "key": "applemusic",
    "name": "Apple Music",
-   "logo": "logos/applemusic.png"
+   "logo": "logos/applemusic.png",
+   "cancel": "https://apps.apple.com/account/subscriptions"
   },
   {
    "key": "appleone",
    "name": "Apple One",
    "logo": "logos/appleone.png",
-   "darkLogo": "logos/appleone@dark.png"
+   "darkLogo": "logos/appleone@dark.png",
+   "cancel": "https://apps.apple.com/account/subscriptions"
   },
   {
    "key": "appletvplus",
    "name": "Apple TV+",
    "logo": "logos/appletvplus.png",
-   "darkLogo": "logos/appletvplus@dark.png"
+   "darkLogo": "logos/appletvplus@dark.png",
+   "cancel": "https://apps.apple.com/account/subscriptions"
   },
   {
    "key": "asana",
@@ -94,7 +100,8 @@
   {
    "key": "audible",
    "name": "Audible",
-   "logo": "logos/audible.png"
+   "logo": "logos/audible.png",
+   "cancel": "https://www.audible.com/account"
   },
   {
    "key": "backblaze",
@@ -130,7 +137,8 @@
   {
    "key": "canva",
    "name": "Canva",
-   "logo": "logos/canva.png"
+   "logo": "logos/canva.png",
+   "cancel": "https://www.canva.com/settings/billing-and-teams"
   },
   {
    "key": "cloudflare",
@@ -167,7 +175,8 @@
    "key": "disneyplus",
    "name": "Disney +",
    "logo": "logos/disneyplus.png",
-   "darkLogo": "logos/disneyplus@dark.png"
+   "darkLogo": "logos/disneyplus@dark.png",
+   "cancel": "https://www.disneyplus.com/account/subscription"
   },
   {
    "key": "docker",
@@ -183,7 +192,8 @@
   {
    "key": "dropbox",
    "name": "Dropbox",
-   "logo": "logos/dropbox.png"
+   "logo": "logos/dropbox.png",
+   "cancel": "https://www.dropbox.com/account/plan"
   },
   {
    "key": "duolingo",
@@ -244,7 +254,8 @@
    "key": "github",
    "name": "Github",
    "logo": "logos/github.png",
-   "darkLogo": "logos/github@dark.png"
+   "darkLogo": "logos/github@dark.png",
+   "cancel": "https://github.com/settings/billing"
   },
   {
    "key": "gitlab",
@@ -297,7 +308,8 @@
    "key": "hbomax",
    "name": "HBO Max",
    "logo": "logos/hbomax.png",
-   "darkLogo": "logos/hbomax@dark.png"
+   "darkLogo": "logos/hbomax@dark.png",
+   "cancel": "https://www.max.com/account"
   },
   {
    "key": "heroku",
@@ -318,12 +330,14 @@
   {
    "key": "hulu",
    "name": "Hulu",
-   "logo": "logos/hulu.png"
+   "logo": "logos/hulu.png",
+   "cancel": "https://secure.hulu.com/account"
   },
   {
    "key": "icloud",
    "name": "iCloud",
-   "logo": "logos/icloud.png"
+   "logo": "logos/icloud.png",
+   "cancel": "https://apps.apple.com/account/subscriptions"
   },
   {
    "key": "ing",
@@ -400,7 +414,8 @@
   {
    "key": "netflix",
    "name": "Netflix",
-   "logo": "logos/netflix.png"
+   "logo": "logos/netflix.png",
+   "cancel": "https://www.netflix.com/cancelplan"
   },
   {
    "key": "nordvpn",
@@ -415,7 +430,8 @@
   {
    "key": "office365",
    "name": "Office 365",
-   "logo": "logos/office365.png"
+   "logo": "logos/office365.png",
+   "cancel": "https://account.microsoft.com/services"
   },
   {
    "key": "onedrive",
@@ -435,12 +451,14 @@
   {
    "key": "paramountplus",
    "name": "Paramount+",
-   "logo": "logos/paramountplus.png"
+   "logo": "logos/paramountplus.png",
+   "cancel": "https://www.paramountplus.com/account/"
   },
   {
    "key": "patreon",
    "name": "Patreon",
-   "logo": "logos/patreon.png"
+   "logo": "logos/patreon.png",
+   "cancel": "https://www.patreon.com/settings/memberships"
   },
   {
    "key": "psplus",
@@ -451,7 +469,8 @@
    "key": "primevideo",
    "name": "Prime Video",
    "logo": "logos/primevideo.png",
-   "darkLogo": "logos/primevideo@dark.png"
+   "darkLogo": "logos/primevideo@dark.png",
+   "cancel": "https://www.amazon.com/gp/primecentral"
   },
   {
    "key": "pia",
@@ -486,7 +505,8 @@
   {
    "key": "spotify",
    "name": "Spotify",
-   "logo": "logos/spotify.png"
+   "logo": "logos/spotify.png",
+   "cancel": "https://www.spotify.com/account/subscription/"
   },
   {
    "key": "squarespace",
@@ -538,7 +558,8 @@
   {
    "key": "twitch",
    "name": "Twitch",
-   "logo": "logos/twitch.png"
+   "logo": "logos/twitch.png",
+   "cancel": "https://www.twitch.tv/subscriptions"
   },
   {
    "key": "ulysses",
@@ -575,12 +596,14 @@
   {
    "key": "xboxlive",
    "name": "Xbox Live",
-   "logo": "logos/xboxlive.png"
+   "logo": "logos/xboxlive.png",
+   "cancel": "https://account.microsoft.com/services"
   },
   {
    "key": "youtube",
    "name": "YouTube",
-   "logo": "logos/youtube.png"
+   "logo": "logos/youtube.png",
+   "cancel": "https://www.youtube.com/paid_memberships"
   },
   {
    "key": "yupp",
