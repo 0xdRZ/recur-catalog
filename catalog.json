@@ -1,0 +1,607 @@
+{
+ "schemaVersion": 1,
+ "version": 1,
+ "providers": [
+  {
+   "key": "1password",
+   "name": "1Password",
+   "logo": "logos/1password.png"
+  },
+  {
+   "key": "adobexd",
+   "name": "Adobe XD",
+   "logo": "logos/adobexd.png"
+  },
+  {
+   "key": "aha",
+   "name": "Aha",
+   "logo": "logos/aha.png"
+  },
+  {
+   "key": "airtel",
+   "name": "Airtel",
+   "logo": "logos/airtel.png"
+  },
+  {
+   "key": "albertheijn",
+   "name": "Albert Heijn",
+   "logo": "logos/albertheijn.png"
+  },
+  {
+   "key": "amazon",
+   "name": "Amazon",
+   "logo": "logos/amazon.png",
+   "darkLogo": "logos/amazon@dark.png"
+  },
+  {
+   "key": "aws",
+   "name": "Amazon AWS",
+   "logo": "logos/aws.png",
+   "darkLogo": "logos/aws@dark.png"
+  },
+  {
+   "key": "prime",
+   "name": "Amazon Prime",
+   "logo": "logos/prime.png"
+  },
+  {
+   "key": "amex",
+   "name": "American Express",
+   "logo": "logos/amex.png"
+  },
+  {
+   "key": "appstore",
+   "name": "App Store",
+   "logo": "logos/appstore.png"
+  },
+  {
+   "key": "applearcade",
+   "name": "Apple Arcade",
+   "logo": "logos/applearcade.png"
+  },
+  {
+   "key": "appledeveloper",
+   "name": "Apple Developer",
+   "logo": "logos/appledeveloper.png"
+  },
+  {
+   "key": "applemusic",
+   "name": "Apple Music",
+   "logo": "logos/applemusic.png"
+  },
+  {
+   "key": "appleone",
+   "name": "Apple One",
+   "logo": "logos/appleone.png",
+   "darkLogo": "logos/appleone@dark.png"
+  },
+  {
+   "key": "appletvplus",
+   "name": "Apple TV+",
+   "logo": "logos/appletvplus.png",
+   "darkLogo": "logos/appletvplus@dark.png"
+  },
+  {
+   "key": "asana",
+   "name": "Asana",
+   "logo": "logos/asana.png"
+  },
+  {
+   "key": "att",
+   "name": "AT & T",
+   "logo": "logos/att.png"
+  },
+  {
+   "key": "audible",
+   "name": "Audible",
+   "logo": "logos/audible.png"
+  },
+  {
+   "key": "backblaze",
+   "name": "Backblaze",
+   "logo": "logos/backblaze.png"
+  },
+  {
+   "key": "bear",
+   "name": "Bear",
+   "logo": "logos/bear.png"
+  },
+  {
+   "key": "blinkist",
+   "name": "Blinkist",
+   "logo": "logos/blinkist.png"
+  },
+  {
+   "key": "bluehost",
+   "name": "Bluehost",
+   "logo": "logos/bluehost.png"
+  },
+  {
+   "key": "buffer",
+   "name": "Buffer",
+   "logo": "logos/buffer.png",
+   "darkLogo": "logos/buffer@dark.png"
+  },
+  {
+   "key": "canon",
+   "name": "Canon",
+   "logo": "logos/canon.png"
+  },
+  {
+   "key": "canva",
+   "name": "Canva",
+   "logo": "logos/canva.png"
+  },
+  {
+   "key": "cloudflare",
+   "name": "Cloudflare",
+   "logo": "logos/cloudflare.png"
+  },
+  {
+   "key": "comcast",
+   "name": "Comcast",
+   "logo": "logos/comcast.png"
+  },
+  {
+   "key": "creativecloud",
+   "name": "Creative Cloud",
+   "logo": "logos/creativecloud.png"
+  },
+  {
+   "key": "dashlane",
+   "name": "Dashlane",
+   "logo": "logos/dashlane.png",
+   "darkLogo": "logos/dashlane@dark.png"
+  },
+  {
+   "key": "digitalocean",
+   "name": "Digital Ocean",
+   "logo": "logos/digitalocean.png"
+  },
+  {
+   "key": "discord",
+   "name": "Discord",
+   "logo": "logos/discord.png"
+  },
+  {
+   "key": "disneyplus",
+   "name": "Disney +",
+   "logo": "logos/disneyplus.png",
+   "darkLogo": "logos/disneyplus@dark.png"
+  },
+  {
+   "key": "docker",
+   "name": "Docker",
+   "logo": "logos/docker.png"
+  },
+  {
+   "key": "dreamhost",
+   "name": "Dreamhost",
+   "logo": "logos/dreamhost.png",
+   "darkLogo": "logos/dreamhost@dark.png"
+  },
+  {
+   "key": "dropbox",
+   "name": "Dropbox",
+   "logo": "logos/dropbox.png"
+  },
+  {
+   "key": "duolingo",
+   "name": "Duolingo",
+   "logo": "logos/duolingo.png"
+  },
+  {
+   "key": "eaaccess",
+   "name": "EA Access",
+   "logo": "logos/eaaccess.png"
+  },
+  {
+   "key": "ebay",
+   "name": "Ebay",
+   "logo": "logos/ebay.png"
+  },
+  {
+   "key": "eneco",
+   "name": "Eneco",
+   "logo": "logos/eneco.png"
+  },
+  {
+   "key": "espn",
+   "name": "ESPN",
+   "logo": "logos/espn.png"
+  },
+  {
+   "key": "essent",
+   "name": "Essent",
+   "logo": "logos/essent.png"
+  },
+  {
+   "key": "evernote",
+   "name": "Evernote",
+   "logo": "logos/evernote.png"
+  },
+  {
+   "key": "expressvpn",
+   "name": "Express VPN",
+   "logo": "logos/expressvpn.png"
+  },
+  {
+   "key": "figma",
+   "name": "Figma",
+   "logo": "logos/figma.png"
+  },
+  {
+   "key": "firebase",
+   "name": "Firebase",
+   "logo": "logos/firebase.png"
+  },
+  {
+   "key": "flaticon",
+   "name": "Flaticon",
+   "logo": "logos/flaticon.png"
+  },
+  {
+   "key": "github",
+   "name": "Github",
+   "logo": "logos/github.png",
+   "darkLogo": "logos/github@dark.png"
+  },
+  {
+   "key": "gitlab",
+   "name": "GitLab",
+   "logo": "logos/gitlab.png"
+  },
+  {
+   "key": "godaddy",
+   "name": "GoDaddy",
+   "logo": "logos/godaddy.png"
+  },
+  {
+   "key": "appsforwork",
+   "name": "Google Apps for Work",
+   "logo": "logos/appsforwork.png"
+  },
+  {
+   "key": "googledomains",
+   "name": "Google Domains",
+   "logo": "logos/googledomains.png"
+  },
+  {
+   "key": "googledrive",
+   "name": "Google Drive",
+   "logo": "logos/googledrive.png"
+  },
+  {
+   "key": "googlephotos",
+   "name": "Google Photos",
+   "logo": "logos/googlephotos.png"
+  },
+  {
+   "key": "playmusic",
+   "name": "Google Play Music",
+   "logo": "logos/playmusic.png"
+  },
+  {
+   "key": "hbo",
+   "name": "HBO",
+   "logo": "logos/hbo.png",
+   "darkLogo": "logos/hbo@dark.png"
+  },
+  {
+   "key": "hbogo",
+   "name": "HBO Go",
+   "logo": "logos/hbogo.png",
+   "darkLogo": "logos/hbogo@dark.png"
+  },
+  {
+   "key": "hbomax",
+   "name": "HBO Max",
+   "logo": "logos/hbomax.png",
+   "darkLogo": "logos/hbomax@dark.png"
+  },
+  {
+   "key": "heroku",
+   "name": "Heroku",
+   "logo": "logos/heroku.png",
+   "darkLogo": "logos/heroku@dark.png"
+  },
+  {
+   "key": "hotstar",
+   "name": "Hotstar",
+   "logo": "logos/hotstar.png"
+  },
+  {
+   "key": "hp",
+   "name": "HP",
+   "logo": "logos/hp.png"
+  },
+  {
+   "key": "hulu",
+   "name": "Hulu",
+   "logo": "logos/hulu.png"
+  },
+  {
+   "key": "icloud",
+   "name": "iCloud",
+   "logo": "logos/icloud.png"
+  },
+  {
+   "key": "ing",
+   "name": "ING",
+   "logo": "logos/ing.png"
+  },
+  {
+   "key": "invision",
+   "name": "Invision",
+   "logo": "logos/invision.png"
+  },
+  {
+   "key": "jetbrains",
+   "name": "Jetbrains",
+   "logo": "logos/jetbrains.png"
+  },
+  {
+   "key": "jio",
+   "name": "Jio",
+   "logo": "logos/jio.png"
+  },
+  {
+   "key": "jira",
+   "name": "Jira",
+   "logo": "logos/jira.png"
+  },
+  {
+   "key": "lastpass",
+   "name": "Lastpass",
+   "logo": "logos/lastpass.png"
+  },
+  {
+   "key": "leetcode",
+   "name": "LeetCode",
+   "logo": "logos/leetcode.png",
+   "darkLogo": "logos/leetcode@dark.png"
+  },
+  {
+   "key": "linkedin",
+   "name": "LinkedIn",
+   "logo": "logos/linkedin.png"
+  },
+  {
+   "key": "linode",
+   "name": "Linode",
+   "logo": "logos/linode.png"
+  },
+  {
+   "key": "mailchimp",
+   "name": "Mailchimp",
+   "logo": "logos/mailchimp.png"
+  },
+  {
+   "key": "mastercard",
+   "name": "Mastercard",
+   "logo": "logos/mastercard.png"
+  },
+  {
+   "key": "maxis",
+   "name": "Maxis",
+   "logo": "logos/maxis.png"
+  },
+  {
+   "key": "medium",
+   "name": "Medium",
+   "logo": "logos/medium.png",
+   "darkLogo": "logos/medium@dark.png"
+  },
+  {
+   "key": "namecheap",
+   "name": "Namecheap",
+   "logo": "logos/namecheap.png"
+  },
+  {
+   "key": "netflix",
+   "name": "Netflix",
+   "logo": "logos/netflix.png"
+  },
+  {
+   "key": "nordvpn",
+   "name": "Nord VPN",
+   "logo": "logos/nordvpn.png"
+  },
+  {
+   "key": "notion",
+   "name": "Notion",
+   "logo": "logos/notion.png"
+  },
+  {
+   "key": "office365",
+   "name": "Office 365",
+   "logo": "logos/office365.png"
+  },
+  {
+   "key": "onedrive",
+   "name": "OneDrive",
+   "logo": "logos/onedrive.png"
+  },
+  {
+   "key": "ovchipkaart",
+   "name": "OV-Chipkaart",
+   "logo": "logos/ovchipkaart.png"
+  },
+  {
+   "key": "parallels",
+   "name": "Parallels",
+   "logo": "logos/parallels.png"
+  },
+  {
+   "key": "paramountplus",
+   "name": "Paramount+",
+   "logo": "logos/paramountplus.png"
+  },
+  {
+   "key": "patreon",
+   "name": "Patreon",
+   "logo": "logos/patreon.png"
+  },
+  {
+   "key": "psplus",
+   "name": "PlayStation Plus",
+   "logo": "logos/psplus.png"
+  },
+  {
+   "key": "primevideo",
+   "name": "Prime Video",
+   "logo": "logos/primevideo.png",
+   "darkLogo": "logos/primevideo@dark.png"
+  },
+  {
+   "key": "pia",
+   "name": "Private Internet Access",
+   "logo": "logos/pia.png"
+  },
+  {
+   "key": "reddit",
+   "name": "Reddit",
+   "logo": "logos/reddit.png"
+  },
+  {
+   "key": "setapp",
+   "name": "Setapp",
+   "logo": "logos/setapp.png"
+  },
+  {
+   "key": "shopify",
+   "name": "Shopify",
+   "logo": "logos/shopify.png"
+  },
+  {
+   "key": "sketch",
+   "name": "Sketch",
+   "logo": "logos/sketch.png"
+  },
+  {
+   "key": "slack",
+   "name": "Slack",
+   "logo": "logos/slack.png"
+  },
+  {
+   "key": "spotify",
+   "name": "Spotify",
+   "logo": "logos/spotify.png"
+  },
+  {
+   "key": "squarespace",
+   "name": "Squarespace",
+   "logo": "logos/squarespace.png",
+   "darkLogo": "logos/squarespace@dark.png"
+  },
+  {
+   "key": "sunnxt",
+   "name": "Sun Next",
+   "logo": "logos/sunnxt.png"
+  },
+  {
+   "key": "tmobile",
+   "name": "T-Mobile",
+   "logo": "logos/tmobile.png"
+  },
+  {
+   "key": "telekom",
+   "name": "Telekom Malaysia",
+   "logo": "logos/telekom.png"
+  },
+  {
+   "key": "nytimes",
+   "name": "The New York Times",
+   "logo": "logos/nytimes.png",
+   "darkLogo": "logos/nytimes@dark.png"
+  },
+  {
+   "key": "tinder",
+   "name": "Tinder",
+   "logo": "logos/tinder.png"
+  },
+  {
+   "key": "todoist",
+   "name": "Todoist",
+   "logo": "logos/todoist.png"
+  },
+  {
+   "key": "trello",
+   "name": "Trello",
+   "logo": "logos/trello.png"
+  },
+  {
+   "key": "tunnelbear",
+   "name": "TunnelBear",
+   "logo": "logos/tunnelbear.png"
+  },
+  {
+   "key": "twitch",
+   "name": "Twitch",
+   "logo": "logos/twitch.png"
+  },
+  {
+   "key": "ulysses",
+   "name": "Ulysses",
+   "logo": "logos/ulysses.png"
+  },
+  {
+   "key": "vimeo",
+   "name": "Vimeo",
+   "logo": "logos/vimeo.png"
+  },
+  {
+   "key": "visa",
+   "name": "Visa",
+   "logo": "logos/visa.png",
+   "darkLogo": "logos/visa@dark.png"
+  },
+  {
+   "key": "vodafone",
+   "name": "Vodafone",
+   "logo": "logos/vodafone.png"
+  },
+  {
+   "key": "whereby",
+   "name": "Whereby",
+   "logo": "logos/whereby.png"
+  },
+  {
+   "key": "wix",
+   "name": "Wix",
+   "logo": "logos/wix.png",
+   "darkLogo": "logos/wix@dark.png"
+  },
+  {
+   "key": "xboxlive",
+   "name": "Xbox Live",
+   "logo": "logos/xboxlive.png"
+  },
+  {
+   "key": "youtube",
+   "name": "YouTube",
+   "logo": "logos/youtube.png"
+  },
+  {
+   "key": "yupp",
+   "name": "YuppTV",
+   "logo": "logos/yupp.png"
+  },
+  {
+   "key": "zee5",
+   "name": "Zee 5",
+   "logo": "logos/zee5.png",
+   "darkLogo": "logos/zee5@dark.png"
+  },
+  {
+   "key": "ziggo",
+   "name": "Ziggo",
+   "logo": "logos/ziggo.png"
+  },
+  {
+   "key": "zoom",
+   "name": "Zoom",
+   "logo": "logos/zoom.png"
+  }
+ ]
+}
