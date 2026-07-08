@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 5,
+ "version": 6,
  "providers": [
   {
    "key": "1password",
@@ -452,6 +452,11 @@
    "name": "Medium",
    "logo": "logos/medium.png",
    "darkLogo": "logos/medium@dark.png"
+  },
+  {
+   "key": "microsoft365",
+   "name": "Microsoft 365",
+   "logo": "logos/microsoft365.png"
   },
   {
    "key": "namecheap",
