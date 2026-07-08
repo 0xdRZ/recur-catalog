@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 3,
+ "version": 4,
  "providers": [
   {
    "key": "1password",
@@ -143,12 +143,14 @@
   {
    "key": "chatgpt",
    "name": "ChatGPT",
-   "logo": "logos/chatgpt.png"
+   "logo": "logos/chatgpt.png",
+   "color": "#10A37F"
   },
   {
    "key": "claude",
    "name": "Claude",
-   "logo": "logos/claude.png"
+   "logo": "logos/claude.png",
+   "color": "#D97757"
   },
   {
    "key": "cloudflare",
