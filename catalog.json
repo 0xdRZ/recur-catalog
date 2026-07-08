@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 4,
+ "version": 5,
  "providers": [
   {
    "key": "1password",
@@ -119,6 +119,11 @@
    "logo": "logos/blinkist.png"
   },
   {
+   "key": "bloomberg",
+   "name": "Bloomberg",
+   "logo": "logos/bloomberg.png"
+  },
+  {
    "key": "bluehost",
    "name": "Bluehost",
    "logo": "logos/bluehost.png"
@@ -128,6 +133,11 @@
    "name": "Buffer",
    "logo": "logos/buffer.png",
    "darkLogo": "logos/buffer@dark.png"
+  },
+  {
+   "key": "calm",
+   "name": "Calm",
+   "logo": "logos/calm.png"
   },
   {
    "key": "canon",
@@ -182,6 +192,11 @@
    "key": "discord",
    "name": "Discord",
    "logo": "logos/discord.png"
+  },
+  {
+   "key": "discoveryplus",
+   "name": "Discovery+",
+   "logo": "logos/discoveryplus.png"
   },
   {
    "key": "disneyplus",
@@ -310,6 +325,11 @@
    "logo": "logos/playmusic.png"
   },
   {
+   "key": "grammarly",
+   "name": "Grammarly",
+   "logo": "logos/grammarly.png"
+  },
+  {
    "key": "hbo",
    "name": "HBO",
    "logo": "logos/hbo.png",
@@ -327,6 +347,11 @@
    "logo": "logos/hbomax.png",
    "darkLogo": "logos/hbomax@dark.png",
    "cancel": "https://www.max.com/account"
+  },
+  {
+   "key": "headspace",
+   "name": "Headspace",
+   "logo": "logos/headspace.png"
   },
   {
    "key": "heroku",
@@ -380,6 +405,11 @@
    "key": "jira",
    "name": "Jira",
    "logo": "logos/jira.png"
+  },
+  {
+   "key": "kindleunlimited",
+   "name": "Kindle",
+   "logo": "logos/kindleunlimited.png"
   },
   {
    "key": "lastpass",
@@ -478,6 +508,11 @@
    "cancel": "https://www.patreon.com/settings/memberships"
   },
   {
+   "key": "peacock",
+   "name": "Peacock",
+   "logo": "logos/peacock.png"
+  },
+  {
    "key": "psplus",
    "name": "PlayStation Plus",
    "logo": "logos/psplus.png"
@@ -493,6 +528,11 @@
    "key": "pia",
    "name": "Private Internet Access",
    "logo": "logos/pia.png"
+  },
+  {
+   "key": "protonvpn",
+   "name": "Proton VPN",
+   "logo": "logos/protonvpn.png"
   },
   {
    "key": "reddit",
@@ -532,9 +572,19 @@
    "darkLogo": "logos/squarespace@dark.png"
   },
   {
+   "key": "strava",
+   "name": "Strava",
+   "logo": "logos/strava.png"
+  },
+  {
    "key": "sunnxt",
    "name": "Sun Next",
    "logo": "logos/sunnxt.png"
+  },
+  {
+   "key": "surfshark",
+   "name": "Surfshark",
+   "logo": "logos/surfshark.png"
   },
   {
    "key": "tmobile",
@@ -551,6 +601,11 @@
    "name": "The New York Times",
    "logo": "logos/nytimes.png",
    "darkLogo": "logos/nytimes@dark.png"
+  },
+  {
+   "key": "thewallstreetjournal",
+   "name": "The Wall Street Journal",
+   "logo": "logos/thewallstreetjournal.png"
   },
   {
    "key": "tinder",
