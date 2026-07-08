@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 2,
+ "version": 3,
  "providers": [
   {
    "key": "1password",
@@ -139,6 +139,16 @@
    "name": "Canva",
    "logo": "logos/canva.png",
    "cancel": "https://www.canva.com/settings/billing-and-teams"
+  },
+  {
+   "key": "chatgpt",
+   "name": "ChatGPT",
+   "logo": "logos/chatgpt.png"
+  },
+  {
+   "key": "claude",
+   "name": "Claude",
+   "logo": "logos/claude.png"
   },
   {
    "key": "cloudflare",
@@ -281,6 +291,11 @@
    "key": "googledrive",
    "name": "Google Drive",
    "logo": "logos/googledrive.png"
+  },
+  {
+   "key": "googleone",
+   "name": "Google One",
+   "logo": "logos/googleone.png"
   },
   {
    "key": "googlephotos",
