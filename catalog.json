@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 7,
+ "version": 8,
  "providers": [
   {
    "key": "1password",
@@ -68,6 +68,11 @@
    "logo": "logos/appledeveloper.png"
   },
   {
+   "key": "applefitnessplus",
+   "name": "Apple Fitness+",
+   "logo": "logos/applefitnessplus.png"
+  },
+  {
    "key": "applemusic",
    "name": "Apple Music",
    "logo": "logos/applemusic.png",
@@ -86,6 +91,12 @@
    "logo": "logos/appletvplus.png",
    "darkLogo": "logos/appletvplus@dark.png",
    "cancel": "https://apps.apple.com/account/subscriptions"
+  },
+  {
+   "key": "applecare",
+   "name": "AppleCare+",
+   "logo": "logos/applecare.png",
+   "cancel": "https://support.apple.com/en-us/HT210578"
   },
   {
    "key": "asana",
@@ -117,6 +128,11 @@
    "key": "ben",
    "name": "Ben",
    "logo": "logos/ben.png"
+  },
+  {
+   "key": "bitdefender",
+   "name": "Bitdefender",
+   "logo": "logos/bitdefender.png"
   },
   {
    "key": "blinkist",
@@ -193,10 +209,25 @@
    "logo": "logos/creativecloud.png"
   },
   {
+   "key": "crunchyroll",
+   "name": "Crunchyroll",
+   "logo": "logos/crunchyroll.png"
+  },
+  {
+   "key": "curiositystream",
+   "name": "Curiosity Stream",
+   "logo": "logos/curiositystream.png"
+  },
+  {
    "key": "dashlane",
    "name": "Dashlane",
    "logo": "logos/dashlane.png",
    "darkLogo": "logos/dashlane@dark.png"
+  },
+  {
+   "key": "dazn",
+   "name": "DAZN",
+   "logo": "logos/dazn.png"
   },
   {
    "key": "delta",
@@ -308,6 +339,16 @@
    "logo": "logos/flaticon.png"
   },
   {
+   "key": "flighty",
+   "name": "Flighty",
+   "logo": "logos/flighty.png"
+  },
+  {
+   "key": "garmin",
+   "name": "Garmin",
+   "logo": "logos/garmin.png"
+  },
+  {
    "key": "github",
    "name": "Github",
    "logo": "logos/github.png",
@@ -340,6 +381,11 @@
    "logo": "logos/googledrive.png"
   },
   {
+   "key": "googlehealth",
+   "name": "Google Health",
+   "logo": "logos/googlehealth.png"
+  },
+  {
    "key": "googleone",
    "name": "Google One",
    "logo": "logos/googleone.png"
@@ -358,6 +404,11 @@
    "key": "grammarly",
    "name": "Grammarly",
    "logo": "logos/grammarly.png"
+  },
+  {
+   "key": "grok",
+   "name": "Grok",
+   "logo": "logos/grok.png"
   },
   {
    "key": "hbo",
@@ -447,6 +498,11 @@
    "logo": "logos/kindleunlimited.png"
   },
   {
+   "key": "kobo",
+   "name": "Kobo",
+   "logo": "logos/kobo.png"
+  },
+  {
    "key": "kpn",
    "name": "KPN",
    "logo": "logos/kpn.png"
@@ -488,6 +544,11 @@
    "logo": "logos/maxis.png"
   },
   {
+   "key": "mcafee",
+   "name": "McAfee",
+   "logo": "logos/mcafee.png"
+  },
+  {
    "key": "medium",
    "name": "Medium",
    "logo": "logos/medium.png",
@@ -504,15 +565,30 @@
    "logo": "logos/mubi.png"
   },
   {
+   "key": "myfitnesspal",
+   "name": "MyFitnessPal",
+   "logo": "logos/myfitnesspal.png"
+  },
+  {
    "key": "namecheap",
    "name": "Namecheap",
    "logo": "logos/namecheap.png"
+  },
+  {
+   "key": "nespresso",
+   "name": "Nespresso",
+   "logo": "logos/nespresso.png"
   },
   {
    "key": "netflix",
    "name": "Netflix",
    "logo": "logos/netflix.png",
    "cancel": "https://www.netflix.com/cancelplan"
+  },
+  {
+   "key": "nintendoswitchonline",
+   "name": "Nintendo",
+   "logo": "logos/nintendoswitchonline.png"
   },
   {
    "key": "nlziet",
@@ -523,6 +599,11 @@
    "key": "nordvpn",
    "name": "Nord VPN",
    "logo": "logos/nordvpn.png"
+  },
+  {
+   "key": "norton",
+   "name": "Norton",
+   "logo": "logos/norton.png"
   },
   {
    "key": "notion",
@@ -583,6 +664,11 @@
    "logo": "logos/peacock.png"
   },
   {
+   "key": "perplexity",
+   "name": "Perplexity",
+   "logo": "logos/perplexity.png"
+  },
+  {
    "key": "psplus",
    "name": "PlayStation Plus",
    "logo": "logos/psplus.png"
@@ -598,6 +684,11 @@
    "key": "pia",
    "name": "Private Internet Access",
    "logo": "logos/pia.png"
+  },
+  {
+   "key": "proton",
+   "name": "Proton",
+   "logo": "logos/proton.png"
   },
   {
    "key": "protonvpn",
@@ -633,6 +724,11 @@
    "key": "sketch",
    "name": "Sketch",
    "logo": "logos/sketch.png"
+  },
+  {
+   "key": "skillshare",
+   "name": "Skillshare",
+   "logo": "logos/skillshare.png"
   },
   {
    "key": "sky",
@@ -765,15 +861,35 @@
    "logo": "logos/vodafone.png"
   },
   {
+   "key": "whatsapp",
+   "name": "WhatsApp",
+   "logo": "logos/whatsapp.png"
+  },
+  {
    "key": "whereby",
    "name": "Whereby",
    "logo": "logos/whereby.png"
+  },
+  {
+   "key": "whoop",
+   "name": "WHOOP",
+   "logo": "logos/whoop.png"
+  },
+  {
+   "key": "withings",
+   "name": "Withings",
+   "logo": "logos/withings.png"
   },
   {
    "key": "wix",
    "name": "Wix",
    "logo": "logos/wix.png",
    "darkLogo": "logos/wix@dark.png"
+  },
+  {
+   "key": "x",
+   "name": "X",
+   "logo": "logos/x.png"
   },
   {
    "key": "xboxlive",
@@ -800,7 +916,7 @@
   {
    "key": "zee5",
    "name": "Zee 5",
-   "logo": "logos/zee5.png",
+   "logo": "logos/zee5-v2.png",
    "darkLogo": "logos/zee5@dark.png"
   },
   {
