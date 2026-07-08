@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 6,
+ "version": 7,
  "providers": [
   {
    "key": "1password",
@@ -114,6 +114,11 @@
    "logo": "logos/bear.png"
   },
   {
+   "key": "ben",
+   "name": "Ben",
+   "logo": "logos/ben.png"
+  },
+  {
    "key": "blinkist",
    "name": "Blinkist",
    "logo": "logos/blinkist.png"
@@ -129,10 +134,20 @@
    "logo": "logos/bluehost.png"
   },
   {
+   "key": "budgetthuis",
+   "name": "Budget Thuis",
+   "logo": "logos/budgetthuis.png"
+  },
+  {
    "key": "buffer",
    "name": "Buffer",
    "logo": "logos/buffer.png",
    "darkLogo": "logos/buffer@dark.png"
+  },
+  {
+   "key": "caiway",
+   "name": "Caiway",
+   "logo": "logos/caiway.png"
   },
   {
    "key": "calm",
@@ -182,6 +197,11 @@
    "name": "Dashlane",
    "logo": "logos/dashlane.png",
    "darkLogo": "logos/dashlane@dark.png"
+  },
+  {
+   "key": "delta",
+   "name": "Delta",
+   "logo": "logos/delta.png"
   },
   {
    "key": "digitalocean",
@@ -253,6 +273,11 @@
    "logo": "logos/essent.png"
   },
   {
+   "key": "etvwin",
+   "name": "ETV Win",
+   "logo": "logos/etvwin.png"
+  },
+  {
    "key": "evernote",
    "name": "Evernote",
    "logo": "logos/evernote.png"
@@ -266,6 +291,11 @@
    "key": "figma",
    "name": "Figma",
    "logo": "logos/figma.png"
+  },
+  {
+   "key": "financialtimes",
+   "name": "Financial Times",
+   "logo": "logos/financialtimes.png"
   },
   {
    "key": "firebase",
@@ -360,6 +390,11 @@
    "darkLogo": "logos/heroku@dark.png"
   },
   {
+   "key": "hollandsnieuwe",
+   "name": "Hollandsnieuwe",
+   "logo": "logos/hollandsnieuwe.png"
+  },
+  {
    "key": "hotstar",
    "name": "Hotstar",
    "logo": "logos/hotstar.png"
@@ -412,6 +447,11 @@
    "logo": "logos/kindleunlimited.png"
   },
   {
+   "key": "kpn",
+   "name": "KPN",
+   "logo": "logos/kpn.png"
+  },
+  {
    "key": "lastpass",
    "name": "Lastpass",
    "logo": "logos/lastpass.png"
@@ -459,6 +499,11 @@
    "logo": "logos/microsoft365.png"
   },
   {
+   "key": "mubi",
+   "name": "MUBI",
+   "logo": "logos/mubi.png"
+  },
+  {
    "key": "namecheap",
    "name": "Namecheap",
    "logo": "logos/namecheap.png"
@@ -470,6 +515,11 @@
    "cancel": "https://www.netflix.com/cancelplan"
   },
   {
+   "key": "nlziet",
+   "name": "NLZIET",
+   "logo": "logos/nlziet.png"
+  },
+  {
    "key": "nordvpn",
    "name": "Nord VPN",
    "logo": "logos/nordvpn.png"
@@ -478,6 +528,21 @@
    "key": "notion",
    "name": "Notion",
    "logo": "logos/notion.png"
+  },
+  {
+   "key": "now",
+   "name": "NOW",
+   "logo": "logos/now.png"
+  },
+  {
+   "key": "o2",
+   "name": "O2",
+   "logo": "logos/o2.png"
+  },
+  {
+   "key": "odido",
+   "name": "Odido",
+   "logo": "logos/odido.png"
   },
   {
    "key": "office365",
@@ -545,6 +610,11 @@
    "logo": "logos/reddit.png"
   },
   {
+   "key": "revolut",
+   "name": "Revolut",
+   "logo": "logos/revolut.png"
+  },
+  {
    "key": "setapp",
    "name": "Setapp",
    "logo": "logos/setapp.png"
@@ -555,14 +625,29 @@
    "logo": "logos/shopify.png"
   },
   {
+   "key": "simpel",
+   "name": "Simpel",
+   "logo": "logos/simpel.png"
+  },
+  {
    "key": "sketch",
    "name": "Sketch",
    "logo": "logos/sketch.png"
   },
   {
+   "key": "sky",
+   "name": "Sky",
+   "logo": "logos/sky.png"
+  },
+  {
    "key": "slack",
    "name": "Slack",
    "logo": "logos/slack.png"
+  },
+  {
+   "key": "sonyliv",
+   "name": "SonyLIV",
+   "logo": "logos/sonyliv.png"
   },
   {
    "key": "spotify",
@@ -597,9 +682,19 @@
    "logo": "logos/tmobile.png"
   },
   {
+   "key": "tataplay",
+   "name": "Tata Play",
+   "logo": "logos/tataplay.png"
+  },
+  {
    "key": "telekom",
    "name": "Telekom Malaysia",
    "logo": "logos/telekom.png"
+  },
+  {
+   "key": "theeconomist",
+   "name": "The Economist",
+   "logo": "logos/theeconomist.png"
   },
   {
    "key": "nytimes",
@@ -644,6 +739,16 @@
    "logo": "logos/ulysses.png"
   },
   {
+   "key": "viaplay",
+   "name": "Viaplay",
+   "logo": "logos/viaplay.png"
+  },
+  {
+   "key": "videoland",
+   "name": "Videoland",
+   "logo": "logos/videoland.png"
+  },
+  {
    "key": "vimeo",
    "name": "Vimeo",
    "logo": "logos/vimeo.png"
@@ -675,6 +780,11 @@
    "name": "Xbox Live",
    "logo": "logos/xboxlive.png",
    "cancel": "https://account.microsoft.com/services"
+  },
+  {
+   "key": "youfone",
+   "name": "Youfone",
+   "logo": "logos/youfone.png"
   },
   {
    "key": "youtube",
