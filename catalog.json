@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 8,
+ "version": 9,
  "providers": [
   {
    "key": "1password",
@@ -113,6 +113,11 @@
    "name": "Audible",
    "logo": "logos/audible.png",
    "cancel": "https://www.audible.com/account"
+  },
+  {
+   "key": "babbel",
+   "name": "Babbel",
+   "logo": "logos/babbel.png"
   },
   {
    "key": "backblaze",
@@ -912,6 +917,11 @@
    "key": "yupp",
    "name": "YuppTV",
    "logo": "logos/yupp.png"
+  },
+  {
+   "key": "zapier",
+   "name": "Zapier",
+   "logo": "logos/zapier.png"
   },
   {
    "key": "zee5",
