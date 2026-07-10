@@ -1,0 +1,3 @@
+# Local-only catalog studio tool (not part of the published catalog).
+studio/
+.DS_Store

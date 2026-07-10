@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 9,
+ "version": 10,
  "providers": [
   {
    "key": "1password",
@@ -927,7 +927,8 @@
    "key": "zee5",
    "name": "Zee 5",
    "logo": "logos/zee5-v2.png",
-   "darkLogo": "logos/zee5@dark.png"
+   "darkLogo": "logos/zee5@dark.png",
+   "overridesBundled": true
   },
   {
    "key": "ziggo",

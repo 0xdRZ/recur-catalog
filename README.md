@@ -23,7 +23,10 @@ caches a separate copy per compression and a purge did not clear every variant.)
 Optional fields: `"darkLogo"`, `"color"` (hex brand color, e.g. `"#E50914"` — overrides
 the wash the app computes from the logo, needed for monochrome marks like ChatGPT),
 `"cancel"` (direct link to the service's cancellation page — powers the app's
-cancellation assistant).
+cancellation assistant), `"overridesBundled": true` (the catalog logo REPLACES the
+copy bundled inside the app — use for rebrands of bundled marks so the new art
+reaches users without an App Store release; point `"logo"` at a NEW filename, e.g.
+`logos/<key>-v2.png`, so the immutable CDN can't serve a stale copy).
 
 3. **Bump the top-level `version` integer** (human-readable; increment by one).
 4. Commit, then **tag the release and push both**:
