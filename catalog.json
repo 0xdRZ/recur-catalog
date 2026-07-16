@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 11,
+ "version": 12,
  "providers": [
   {
    "key": "1password",
@@ -45,6 +45,11 @@
    "name": "Amazon Prime",
    "logo": "logos/prime.png",
    "cancel": "https://www.amazon.com/gp/primecentral"
+  },
+  {
+   "key": "amcplus",
+   "name": "AMC+",
+   "logo": "logos/amcplus.png"
   },
   {
    "key": "amex",
@@ -187,6 +192,12 @@
    "cancel": "https://www.canva.com/settings/billing-and-teams"
   },
   {
+   "key": "carrotweather",
+   "name": "Carrot Weather",
+   "logo": "logos/carrotweather.png",
+   "cancel": "https://support.apple.com/en-us/118428"
+  },
+  {
    "key": "chatgpt",
    "name": "ChatGPT",
    "logo": "logos/chatgpt.png",
@@ -207,6 +218,11 @@
    "key": "comcast",
    "name": "Comcast",
    "logo": "logos/comcast.png"
+  },
+  {
+   "key": "costco",
+   "name": "Costco",
+   "logo": "logos/costco.png"
   },
   {
    "key": "creativecloud",
@@ -324,6 +340,11 @@
    "logo": "logos/expressvpn.png"
   },
   {
+   "key": "fantastical",
+   "name": "Fantastical",
+   "logo": "logos/fantastical.png"
+  },
+  {
    "key": "figma",
    "name": "Figma",
    "logo": "logos/figma.png"
@@ -430,7 +451,7 @@
   {
    "key": "hbomax",
    "name": "HBO Max",
-   "logo": "logos/hbomax.png",
+   "logo": "logos/hbomax-v2.png",
    "darkLogo": "logos/hbomax@dark.png",
    "cancel": "https://www.max.com/account"
   },
@@ -493,6 +514,11 @@
    "logo": "logos/jio.png"
   },
   {
+   "key": "jiohotstar",
+   "name": "JioHotstar",
+   "logo": "logos/jiohotstar.png"
+  },
+  {
    "key": "jira",
    "name": "Jira",
    "logo": "logos/jira.png"
@@ -501,6 +527,11 @@
    "key": "kindleunlimited",
    "name": "Kindle",
    "logo": "logos/kindleunlimited.png"
+  },
+  {
+   "key": "klarna",
+   "name": "Klarna",
+   "logo": "logos/klarna.png"
   },
   {
    "key": "kobo",
@@ -534,6 +565,11 @@
    "logo": "logos/linode.png"
   },
   {
+   "key": "lionsgateplay",
+   "name": "Lionsgate Play",
+   "logo": "logos/lionsgateplay.png"
+  },
+  {
    "key": "mailchimp",
    "name": "Mailchimp",
    "logo": "logos/mailchimp.png"
@@ -558,6 +594,11 @@
    "name": "Medium",
    "logo": "logos/medium.png",
    "darkLogo": "logos/medium@dark.png"
+  },
+  {
+   "key": "mgmplus",
+   "name": "MGM+",
+   "logo": "logos/mgmplus.png"
   },
   {
    "key": "microsoft365",
@@ -711,6 +752,16 @@
    "logo": "logos/revolut.png"
   },
   {
+   "key": "samsung",
+   "name": "Samsung",
+   "logo": "logos/samsung.png"
+  },
+  {
+   "key": "screens",
+   "name": "Screens",
+   "logo": "logos/screens.png"
+  },
+  {
    "key": "setapp",
    "name": "Setapp",
    "logo": "logos/setapp.png"
@@ -783,6 +834,11 @@
    "logo": "logos/tmobile.png"
   },
   {
+   "key": "tailscale",
+   "name": "Tailscale",
+   "logo": "logos/tailscale.png"
+  },
+  {
    "key": "tataplay",
    "name": "Tata Play",
    "logo": "logos/tataplay.png"
@@ -791,6 +847,11 @@
    "key": "telekom",
    "name": "Telekom Malaysia",
    "logo": "logos/telekom.png"
+  },
+  {
+   "key": "tesla",
+   "name": "Tesla",
+   "logo": "logos/tesla.png"
   },
   {
    "key": "theeconomist",
@@ -807,6 +868,11 @@
    "key": "thewallstreetjournal",
    "name": "The Wall Street Journal",
    "logo": "logos/thewallstreetjournal.png"
+  },
+  {
+   "key": "ticktick",
+   "name": "TickTick",
+   "logo": "logos/ticktick.png"
   },
   {
    "key": "tinder",
@@ -864,6 +930,11 @@
    "key": "vodafone",
    "name": "Vodafone",
    "logo": "logos/vodafone.png"
+  },
+  {
+   "key": "walmartplus",
+   "name": "Walmart+",
+   "logo": "logos/walmartplus.png"
   },
   {
    "key": "whatsapp",
