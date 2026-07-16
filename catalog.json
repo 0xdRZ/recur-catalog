@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 10,
+ "version": 11,
  "providers": [
   {
    "key": "1password",
@@ -96,7 +96,7 @@
    "key": "applecare",
    "name": "AppleCare+",
    "logo": "logos/applecare.png",
-   "cancel": "https://support.apple.com/en-us/HT210578"
+   "cancel": "https://support.apple.com/en-us/118218"
   },
   {
    "key": "asana",
