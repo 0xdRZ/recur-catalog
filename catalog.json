@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 12,
+ "version": 13,
  "providers": [
   {
    "key": "1password",
@@ -120,6 +120,11 @@
    "cancel": "https://www.audible.com/account"
   },
   {
+   "key": "azure",
+   "name": "Azure",
+   "logo": "logos/azure.png"
+  },
+  {
    "key": "babbel",
    "name": "Babbel",
    "logo": "logos/babbel.png"
@@ -202,6 +207,11 @@
    "name": "ChatGPT",
    "logo": "logos/chatgpt.png",
    "color": "#10A37F"
+  },
+  {
+   "key": "cinemark",
+   "name": "Cinemark",
+   "logo": "logos/cinemark.png"
   },
   {
    "key": "claude",
@@ -683,6 +693,16 @@
    "logo": "logos/onedrive.png"
   },
   {
+   "key": "onelifefitness",
+   "name": "Onelife Fitness",
+   "logo": "logos/onelifefitness.png"
+  },
+  {
+   "key": "orangetheory",
+   "name": "Orange Theory",
+   "logo": "logos/orangetheory.png"
+  },
+  {
    "key": "ovchipkaart",
    "name": "OV-Chipkaart",
    "logo": "logos/ovchipkaart.png"
@@ -715,6 +735,11 @@
    "logo": "logos/perplexity.png"
   },
   {
+   "key": "planetfitness",
+   "name": "Planet Fitness",
+   "logo": "logos/planetfitness.png"
+  },
+  {
    "key": "psplus",
    "name": "PlayStation Plus",
    "logo": "logos/psplus.png"
@@ -745,6 +770,11 @@
    "key": "reddit",
    "name": "Reddit",
    "logo": "logos/reddit.png"
+  },
+  {
+   "key": "regal",
+   "name": "Regal",
+   "logo": "logos/regal.png"
   },
   {
    "key": "revolut",
@@ -906,6 +936,11 @@
    "logo": "logos/ulysses.png"
   },
   {
+   "key": "verizon",
+   "name": "Verizon",
+   "logo": "logos/verizon.png"
+  },
+  {
    "key": "viaplay",
    "name": "Viaplay",
    "logo": "logos/viaplay.png"
@@ -914,6 +949,11 @@
    "key": "videoland",
    "name": "Videoland",
    "logo": "logos/videoland.png"
+  },
+  {
+   "key": "viki",
+   "name": "Viki",
+   "logo": "logos/viki.png"
   },
   {
    "key": "vimeo",
