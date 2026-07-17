@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 13,
+ "version": 14,
  "providers": [
   {
    "key": "1password",
@@ -283,7 +283,7 @@
   {
    "key": "disneyplus",
    "name": "Disney +",
-   "logo": "logos/disneyplus.png",
+   "logo": "logos/disneyplus-v2.png",
    "darkLogo": "logos/disneyplus@dark.png",
    "cancel": "https://www.disneyplus.com/account/subscription"
   },
@@ -743,6 +743,11 @@
    "key": "psplus",
    "name": "PlayStation Plus",
    "logo": "logos/psplus.png"
+  },
+  {
+   "key": "pokemonhome",
+   "name": "Pokémon HOME",
+   "logo": "logos/pokemonhome.png"
   },
   {
    "key": "primevideo",
