@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 15,
+ "version": 16,
  "providers": [
   {
    "key": "1password",
@@ -847,6 +847,11 @@
    "name": "Squarespace",
    "logo": "logos/squarespace.png",
    "darkLogo": "logos/squarespace@dark.png"
+  },
+  {
+   "key": "stepsapp",
+   "name": "StepsApp",
+   "logo": "logos/stepsapp.png"
   },
   {
    "key": "strava",
