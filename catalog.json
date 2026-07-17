@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 16,
+ "version": 17,
  "providers": [
   {
    "key": "1password",
@@ -527,6 +527,11 @@
    "key": "jiohotstar",
    "name": "JioHotstar",
    "logo": "logos/jiohotstar.png"
+  },
+  {
+   "key": "jiosaavn",
+   "name": "JioSaavn",
+   "logo": "logos/jiosaavn.png"
   },
   {
    "key": "jira",
