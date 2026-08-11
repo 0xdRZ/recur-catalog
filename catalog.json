@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 17,
+ "version": 18,
  "providers": [
   {
    "key": "1password",
@@ -261,6 +261,11 @@
    "logo": "logos/dazn.png"
   },
   {
+   "key": "deliveroo",
+   "name": "Deliveroo",
+   "logo": "logos/deliveroo.png"
+  },
+  {
    "key": "delta",
    "name": "Delta",
    "logo": "logos/delta.png"
@@ -469,6 +474,11 @@
    "key": "headspace",
    "name": "Headspace",
    "logo": "logos/headspace.png"
+  },
+  {
+   "key": "hellofresh",
+   "name": "HelloFresh",
+   "logo": "logos/hellofresh.png"
   },
   {
    "key": "heroku",
@@ -894,6 +904,11 @@
    "logo": "logos/telekom.png"
   },
   {
+   "key": "tescomobile",
+   "name": "Tesco Mobile",
+   "logo": "logos/tescomobile.png"
+  },
+  {
    "key": "tesla",
    "name": "Tesla",
    "logo": "logos/tesla.png"
@@ -985,6 +1000,11 @@
    "key": "vodafone",
    "name": "Vodafone",
    "logo": "logos/vodafone.png"
+  },
+  {
+   "key": "voxi",
+   "name": "VOXI",
+   "logo": "logos/voxi.png"
   },
   {
    "key": "walmartplus",
