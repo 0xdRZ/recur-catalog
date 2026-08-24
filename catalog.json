@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 18,
+ "version": 19,
  "providers": [
   {
    "key": "1password",
@@ -487,6 +487,11 @@
    "darkLogo": "logos/heroku@dark.png"
   },
   {
+   "key": "hims",
+   "name": "Hims",
+   "logo": "logos/hims.png"
+  },
+  {
    "key": "hollandsnieuwe",
    "name": "Hollandsnieuwe",
    "logo": "logos/hollandsnieuwe.png"
@@ -917,6 +922,11 @@
    "key": "theeconomist",
    "name": "The Economist",
    "logo": "logos/theeconomist.png"
+  },
+  {
+   "key": "thegymgroup",
+   "name": "The Gym Group",
+   "logo": "logos/thegymgroup.png"
   },
   {
    "key": "nytimes",
