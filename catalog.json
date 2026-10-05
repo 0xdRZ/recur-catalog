@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 20,
+ "version": 21,
  "providers": [
   {
    "key": "1password",
@@ -160,6 +160,11 @@
    "logo": "logos/bitdefender.png"
   },
   {
+   "key": "bitwarden",
+   "name": "Bitwarden",
+   "logo": "logos/bitwarden.png"
+  },
+  {
    "key": "blinkist",
    "name": "Blinkist",
    "logo": "logos/blinkist.png"
@@ -219,6 +224,11 @@
    "color": "#10A37F"
   },
   {
+   "key": "chesscom",
+   "name": "Chess.com",
+   "logo": "logos/chesscom.png"
+  },
+  {
    "key": "cinemark",
    "name": "Cinemark",
    "logo": "logos/cinemark.png"
@@ -243,6 +253,11 @@
    "key": "costco",
    "name": "Costco",
    "logo": "logos/costco.png"
+  },
+  {
+   "key": "coursera",
+   "name": "Coursera",
+   "logo": "logos/coursera.png"
   },
   {
    "key": "creativecloud",
@@ -544,6 +559,11 @@
    "logo": "logos/ing.png"
   },
   {
+   "key": "instagram",
+   "name": "Instagram",
+   "logo": "logos/instagram.png"
+  },
+  {
    "key": "invision",
    "name": "Invision",
    "logo": "logos/invision.png"
@@ -707,6 +727,11 @@
    "logo": "logos/norton.png"
   },
   {
+   "key": "notability",
+   "name": "Notability",
+   "logo": "logos/notability.png"
+  },
+  {
    "key": "notion",
    "name": "Notion",
    "logo": "logos/notion.png"
@@ -788,6 +813,11 @@
    "key": "peacock",
    "name": "Peacock",
    "logo": "logos/peacock.png"
+  },
+  {
+   "key": "peloton",
+   "name": "Peloton",
+   "logo": "logos/peloton.png"
   },
   {
    "key": "perplexity",
@@ -902,6 +932,11 @@
    "logo": "logos/sonyliv.png"
   },
   {
+   "key": "soundcloud",
+   "name": "SoundCloud",
+   "logo": "logos/soundcloud.png"
+  },
+  {
    "key": "spotify",
    "name": "Spotify",
    "logo": "logos/spotify.png",
@@ -937,6 +972,11 @@
    "key": "swapfiets",
    "name": "Swapfiets",
    "logo": "logos/swapfiets.png"
+  },
+  {
+   "key": "swiggy",
+   "name": "Swiggy",
+   "logo": "logos/swiggy.png"
   },
   {
    "key": "tmobile",
@@ -1019,6 +1059,11 @@
    "name": "Twitch",
    "logo": "logos/twitch.png",
    "cancel": "https://www.twitch.tv/subscriptions"
+  },
+  {
+   "key": "udemy",
+   "name": "Udemy",
+   "logo": "logos/udemy.png"
   },
   {
    "key": "ulysses",
@@ -1139,6 +1184,11 @@
    "key": "ziggo",
    "name": "Ziggo",
    "logo": "logos/ziggo.png"
+  },
+  {
+   "key": "zomato",
+   "name": "Zomato",
+   "logo": "logos/zomato.png"
   },
   {
    "key": "zoom",
