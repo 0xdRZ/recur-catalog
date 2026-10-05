@@ -1,11 +1,16 @@
 {
  "schemaVersion": 1,
- "version": 19,
+ "version": 20,
  "providers": [
   {
    "key": "1password",
    "name": "1Password",
    "logo": "logos/1password.png"
+  },
+  {
+   "key": "abnamro",
+   "name": "ABN AMRO",
+   "logo": "logos/abnamro.png"
   },
   {
    "key": "adobexd",
@@ -135,6 +140,11 @@
    "logo": "logos/backblaze.png"
   },
   {
+   "key": "basicfit",
+   "name": "Basic-Fit",
+   "logo": "logos/basicfit.png"
+  },
+  {
    "key": "bear",
    "name": "Bear",
    "logo": "logos/bear.png"
@@ -261,6 +271,11 @@
    "logo": "logos/dazn.png"
   },
   {
+   "key": "deezer",
+   "name": "Deezer",
+   "logo": "logos/deezer.png"
+  },
+  {
    "key": "deliveroo",
    "name": "Deliveroo",
    "logo": "logos/deliveroo.png"
@@ -373,6 +388,11 @@
    "key": "firebase",
    "name": "Firebase",
    "logo": "logos/firebase.png"
+  },
+  {
+   "key": "fitbit",
+   "name": "Fitbit",
+   "logo": "logos/fitbit.png"
   },
   {
    "key": "flaticon",
@@ -641,6 +661,11 @@
    "logo": "logos/mubi.png"
   },
   {
+   "key": "museumkaart",
+   "name": "Museumkaart",
+   "logo": "logos/museumkaart.png"
+  },
+  {
    "key": "myfitnesspal",
    "name": "MyFitnessPal",
    "logo": "logos/myfitnesspal.png"
@@ -692,6 +717,16 @@
    "logo": "logos/now.png"
   },
   {
+   "key": "npoplus",
+   "name": "NPO Plus",
+   "logo": "logos/npoplus.png"
+  },
+  {
+   "key": "ns",
+   "name": "NS",
+   "logo": "logos/ns.png"
+  },
+  {
    "key": "o2",
    "name": "O2",
    "logo": "logos/o2.png"
@@ -739,6 +774,11 @@
    "cancel": "https://www.paramountplus.com/account/"
   },
   {
+   "key": "pathe",
+   "name": "Pathé",
+   "logo": "logos/pathe.png"
+  },
+  {
    "key": "patreon",
    "name": "Patreon",
    "logo": "logos/patreon.png",
@@ -763,6 +803,11 @@
    "key": "psplus",
    "name": "PlayStation Plus",
    "logo": "logos/psplus.png"
+  },
+  {
+   "key": "podimo",
+   "name": "Podimo",
+   "logo": "logos/podimo.png"
   },
   {
    "key": "pokemonhome",
@@ -887,6 +932,11 @@
    "key": "surfshark",
    "name": "Surfshark",
    "logo": "logos/surfshark.png"
+  },
+  {
+   "key": "swapfiets",
+   "name": "Swapfiets",
+   "logo": "logos/swapfiets.png"
   },
   {
    "key": "tmobile",
