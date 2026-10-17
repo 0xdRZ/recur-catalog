@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 21,
+ "version": 22,
  "providers": [
   {
    "key": "1password",
@@ -994,9 +994,19 @@
    "logo": "logos/tataplay.png"
   },
   {
+   "key": "telegram",
+   "name": "Telegram",
+   "logo": "logos/telegram.png"
+  },
+  {
    "key": "telekom",
    "name": "Telekom Malaysia",
    "logo": "logos/telekom.png"
+  },
+  {
+   "key": "termius",
+   "name": "Termius",
+   "logo": "logos/termius.png"
   },
   {
    "key": "tescomobile",
