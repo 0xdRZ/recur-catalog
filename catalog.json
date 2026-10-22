@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 22,
+ "version": 23,
  "providers": [
   {
    "key": "1password",
@@ -388,6 +388,11 @@
    "key": "fantastical",
    "name": "Fantastical",
    "logo": "logos/fantastical.png"
+  },
+  {
+   "key": "fastmail",
+   "name": "Fastmail",
+   "logo": "logos/fastmail.png"
   },
   {
    "key": "figma",
